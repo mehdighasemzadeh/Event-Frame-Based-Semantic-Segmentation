@@ -1,6 +1,6 @@
 # Event-Frame-Based Semantic Segmentation
 
-This work proposes a Event-Frame based network for semantic segmentation. Our network combines events and frames for boosting the accuarcy and robustness in this task. We evaluate our model on DDD17 dataset[[link](https://github.com/Shathe/Ev-SegNet#readme)] and Event-Scape dataset[[link](https://rpg.ifi.uzh.ch/RAMNet.html)] 
+This work proposes an Event-Frame based network for semantic segmentation. Our network combines events and frames for boosting the accuracy and robustness of this task. We evaluate our model on DDD17 dataset [[link](https://github.com/Shathe/Ev-SegNet#readme)] and Event-Scape dataset[[link](https://rpg.ifi.uzh.ch/RAMNet.html)] 
 
 # Network Architecture
 
