@@ -2,6 +2,9 @@
 
 This work proposes an Event-Frame based network for semantic segmentation. Our network combines events and frames for boosting the accuracy and robustness of this task. We evaluate our model on DDD17 dataset [[link](https://github.com/Shathe/Ev-SegNet#readme)] and Event-Scape dataset[[link](https://rpg.ifi.uzh.ch/RAMNet.html)] 
 
+## Abstract 
+Event cameras are bio-inspired sensors. They have outstanding properties compared to frame-based cameras: high dynamic range (120 vs 60), low latency, and no motion blur. Event cameras are appropriate to use in challenging scenarios such as vision systems in self-driving cars and they have been used for high-level computer vision tasks such as semantic segmentation and depth estimation. In this work, we worked on semantic segmentation using an event camera for self-driving cars. Event-based networks are robust to light conditions but their accuracy is low compared to common frame-based networks, for boosting the accuracy we propose a novel event-frame-based semantic segmentation network that it uses both images and events. We also introduce a novel training method (blurring module), and results show our training method boosts the performance of the network in recognition of small and far objects, and also the network could work when images suffer from blurring.
+
 # Network Architecture
 
 <img src="pic/EFM.png" width="550" height="350">
