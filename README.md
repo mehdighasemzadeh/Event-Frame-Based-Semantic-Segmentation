@@ -62,6 +62,17 @@ python3 eval.py
 
 P: Our network prediction, GT: Ground Truth
 
+
+**Robustness to blurred images:**
+
+Event-Scape dataset contains high-quality RGB images and there is no failure such as blurring in images so for evaluating the robustness and performance of the model, a wide range of blurred images are fed to the network, and the network’s predictions are shown in this [video](https://www.youtube.com/watch?v=EUNrJiVePPE), results show our network is robust to a wide degree of blurred images although the accuracy decreases with increasing the blurring, outputs are still reliable.
+***A video from Robustness Test:***
+
+[![Watch the video](pic/Robustness_Test.png)](https://www.youtube.com/watch?v=EUNrJiVePPE)
+
+P: Our network prediction, GT: Ground Truth
+
+
 **Training**
 
 The original Event-Scape dataset is available [here](https://github.com/Shathe/Ev-SegNet) for training and evaluating the network, download the customized Event-Scape dataset from [here](https://drive.google.com/file/d/1XEUfhho-2g8NH3AYT49zBhDjybHOWAkF/view?usp=sharing), then extract it in Event-Scape/Dataset directory
