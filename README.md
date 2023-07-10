@@ -66,6 +66,7 @@ P: Our network prediction, GT: Ground Truth
 **Robustness to blurred images:**
 
 Event-Scape dataset contains high-quality RGB images and there is no failure such as blurring in images so for evaluating the robustness and performance of the model, a wide range of blurred images are fed to the network, and the network’s predictions are shown in this [video](https://www.youtube.com/watch?v=EUNrJiVePPE), results show our network is robust to a wide degree of blurred images although the accuracy decreases with increasing the blurring, outputs are still reliable.
+
 ***A video from Robustness Test:***
 
 [![Watch the video](pic/Robustness_Test.png)](https://www.youtube.com/watch?v=EUNrJiVePPE)
