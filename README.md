@@ -76,7 +76,7 @@ P: Our network prediction, GT: Ground Truth
 
 **Training**
 
-The original Event-Scape dataset is available [here](https://github.com/Shathe/Ev-SegNet) for training and evaluating the network, download the customized Event-Scape dataset from [here](https://drive.google.com/file/d/1XEUfhho-2g8NH3AYT49zBhDjybHOWAkF/view?usp=sharing), then extract it in Event-Scape/Dataset directory
+The original Event-Scape dataset is available [here](https://rpg.ifi.uzh.ch/RAMNet.html) for training and evaluating the network, download the customized Event-Scape dataset from [here](https://drive.google.com/file/d/1XEUfhho-2g8NH3AYT49zBhDjybHOWAkF/view?usp=sharing), then extract it in Event-Scape/Dataset directory
 ```
 cd Event-Scape
 python3 train.py
