@@ -98,7 +98,7 @@ python3 train.py
 
 **Pre-trained Weights**
 
-Please download Weights from [here](https://drive.google.com/drive/folders/1Ofh9qF1C5UQeEjJnHU1Q5Y0e3hSbH-ZQ?usp=drive_link), then extract it in Event-Scape directory
+Please download Weights from [here](https://drive.google.com/drive/folders/1yRA8SGLPK9Y0r1R68Bpu19sJtwTVrOGi), then extract it in Event-Scape directory
 
 **Evaluating**
 
