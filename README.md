@@ -52,7 +52,7 @@ python3 train.py
 
 **Weights**
 
-Please download Weights from [here](https://drive.google.com/drive/folders/1hza0TTJQRmqDIIXcHDNBkwmZ3wKK9-N8?usp=drive_link), then extract it in DDD17 directory
+Please download Weights from [here](https://drive.google.com/drive/folders/1uFFyXbzS51pFYLb4FjjmE-gRf5oYJ5-R?usp=sharing), then extract it in DDD17 directory
 
 **Evaluating**
 
